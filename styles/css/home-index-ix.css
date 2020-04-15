@@ -1,0 +1,52 @@
+body.elementor-kit-10 {
+    color: #696871;
+    font-family: "Circular",Sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+    letter-spacing: -.6px
+}
+
+body.elementor-kit-10 a {
+    font-family: "Circular",Sans-serif
+}
+
+body.elementor-kit-10 h1 {
+    color: #000;
+    font-family: "Circular",Sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: -.5px
+}
+
+body.elementor-kit-10 h2 {
+    color: #000;
+    font-family: "Circular",Sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: -.5px
+}
+
+body.elementor-kit-10 h3 {
+    color: #000;
+    font-family: "Circular",Sans-serif;
+    font-size: 48px
+}
+
+body.elementor-kit-10 button,body.elementor-kit-10 input[type=button],body.elementor-kit-10 input[type=submit],body.elementor-kit-10 .elementor-button {
+    font-family: "Circular",Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: -.3px;
+    color: #fff;
+    background-color: #f04037;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #c31a12;
+    border-radius: 5px;
+    padding: 15px 30px
+}
+
+body.elementor-kit-10 button:hover,body.elementor-kit-10 button:focus,body.elementor-kit-10 input[type=button]:hover,body.elementor-kit-10 input[type=button]:focus,body.elementor-kit-10 input[type=submit]:hover,body.elementor-kit-10 input[type=submit]:focus,body.elementor-kit-10 .elementor-button:hover,body.elementor-kit-10 .elementor-button:focus {
+    color: #fff;
+    background-color: #f0544c
+}
