@@ -1,5 +1,17 @@
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+/* Styles not made by quantumapp */
+
+
 .elementor-widget-heading .elementor-heading-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
@@ -17,12 +29,12 @@
 }
 
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
-    background-color: #6ec1e4
+    background-color: #1680D8
 }
 
 .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
-    color: #6ec1e4;
-    border-color: #6ec1e4
+    color: #1680D8;
+    border-color: #1680D8
 }
 
 .elementor-widget-button .elementor-button {
@@ -54,7 +66,7 @@
 }
 
 .elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
@@ -66,30 +78,30 @@
 }
 
 .elementor-widget-icon.elementor-view-stacked .elementor-icon {
-    background-color: #6ec1e4
+    background-color: #1680D8
 }
 
 .elementor-widget-icon.elementor-view-framed .elementor-icon,.elementor-widget-icon.elementor-view-default .elementor-icon {
-    color: #6ec1e4;
-    border-color: #6ec1e4
+    color: #1680D8;
+    border-color: #1680D8
 }
 
 .elementor-widget-icon.elementor-view-framed .elementor-icon,.elementor-widget-icon.elementor-view-default .elementor-icon svg {
-    fill: #6ec1e4
+    fill: #1680D8
 }
 
 .elementor-widget-icon-box.elementor-view-stacked .elementor-icon {
-    background-color: #6ec1e4
+    background-color: #1680D8
 }
 
 .elementor-widget-icon-box.elementor-view-framed .elementor-icon,.elementor-widget-icon-box.elementor-view-default .elementor-icon {
-    fill: #6ec1e4;
-    color: #6ec1e4;
-    border-color: #6ec1e4
+    fill: #1680D8;
+    color: #1680D8;
+    border-color: #1680D8
 }
 
 .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
@@ -121,11 +133,11 @@
 }
 
 .elementor-widget-icon-list .elementor-icon-list-icon i {
-    color: #6ec1e4
+    color: #1680D8
 }
 
 .elementor-widget-icon-list .elementor-icon-list-icon svg {
-    fill: #6ec1e4
+    fill: #1680D8
 }
 
 .elementor-widget-icon-list .elementor-icon-list-text {
@@ -138,7 +150,7 @@
 }
 
 .elementor-widget-counter .elementor-counter-number-wrapper {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
@@ -150,11 +162,11 @@
 }
 
 .elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar {
-    background-color: #6ec1e4
+    background-color: #1680D8
 }
 
 .elementor-widget-progress .elementor-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 300
 }
@@ -166,7 +178,7 @@
 }
 
 .elementor-widget-testimonial .elementor-testimonial-name {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
@@ -178,7 +190,7 @@
 }
 
 .elementor-widget-tabs .elementor-tab-title,.elementor-widget-tabs .elementor-tab-title a {
-    color: #6ec1e4
+    color: #1680D8
 }
 
 .elementor-widget-tabs .elementor-tab-title.elementor-active a {
@@ -197,7 +209,7 @@
 }
 
 .elementor-widget-accordion .elementor-accordion-icon,.elementor-widget-accordion .elementor-accordion-title {
-    color: #6ec1e4
+    color: #1680D8
 }
 
 .elementor-widget-accordion .elementor-active .elementor-accordion-icon,.elementor-widget-accordion .elementor-active .elementor-accordion-title {
@@ -216,7 +228,7 @@
 }
 
 .elementor-widget-toggle .elementor-toggle-title,.elementor-widget-toggle .elementor-toggle-icon {
-    color: #6ec1e4
+    color: #1680D8
 }
 
 .elementor-widget-toggle .elementor-tab-title.elementor-active a,.elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon {
@@ -665,19 +677,19 @@
 }
 
 .elementor-widget-theme-site-title .elementor-heading-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
 
 .elementor-widget-theme-page-title .elementor-heading-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
 
 .elementor-widget-theme-post-title .elementor-heading-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
@@ -701,7 +713,7 @@
 }
 
 .elementor-widget-theme-archive-title .elementor-heading-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
@@ -794,7 +806,7 @@
 }
 
 .elementor-widget-portfolio .elementor-portfolio__filter.elementor-active {
-    color: #6ec1e4
+    color: #1680D8
 }
 
 .elementor-widget-gallery .elementor-gallery-item__title {
@@ -808,7 +820,7 @@
 }
 
 .elementor-widget-gallery {
-    --galleries-title-color-normal:#6ec1e4;--galleries-title-color-hover:#54595f;--galleries-pointer-bg-color-hover:#61ce70;--gallery-title-color-active:#54595f;--galleries-pointer-bg-color-active:#61ce70}
+    --galleries-title-color-normal:#1680D8;--galleries-title-color-hover:#54595f;--galleries-pointer-bg-color-hover:#61ce70;--gallery-title-color-active:#54595f;--galleries-pointer-bg-color-active:#61ce70}
 
 .elementor-widget-gallery .elementor-gallery-title {
     font-family: "Circular",Sans-serif;
@@ -946,7 +958,7 @@
 }
 
 .elementor-widget-price-list .elementor-price-list-header {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
@@ -1087,7 +1099,7 @@
 }
 
 .elementor-widget-testimonial-carousel .elementor-testimonial__title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 500
 }
@@ -1116,7 +1128,7 @@
 }
 
 .elementor-widget-countdown .elementor-countdown-item {
-    background-color: #6ec1e4
+    background-color: #1680D8
 }
 
 .elementor-widget-countdown .elementor-countdown-digits {
@@ -1198,11 +1210,11 @@
 }
 
 .elementor-widget-post-info .elementor-icon-list-icon i {
-    color: #6ec1e4
+    color: #1680D8
 }
 
 .elementor-widget-post-info .elementor-icon-list-icon svg {
-    fill: #6ec1e4
+    fill: #1680D8
 }
 
 .elementor-widget-post-info .elementor-icon-list-text,.elementor-widget-post-info .elementor-icon-list-text a {
@@ -1215,7 +1227,7 @@
 }
 
 .elementor-widget-sitemap .elementor-sitemap-title {
-    color: #6ec1e4;
+    color: #1680D8;
     font-family: "Circular",Sans-serif;
     font-weight: 700
 }
