@@ -4,8 +4,6 @@ const CLIENT_ID = 'il41HzRe2Hc0utrR';
 
 const drone = new ScaleDrone(CLIENT_ID, {
   data: { // Will be sent out as clientData via events
-   
-    verify: alert("Rules and Info:\nAll messages sent/Usernames are uploaded to an external server and SAVED please know that if problems arise with this chatroom there is evidence to prove who the user that posted the inappropriate content. We do save IP adresses, MAC adresses, and information about Chrome OS devices."),
     name: prompt("Please read the rules and\nEnter your name:", ""),
     
     color: getRandomColor(),
